@@ -1,3 +1,6 @@
-A Pen created at CodePen.io. You can find this one at http://codepen.io/Lucky/pen/pvybxa.
+With great thanks to Robert Smith (http://www.webdesignerforum.co.uk/user/55353-rbrtsmith/) 
+and Lyndsey (http://www.webdesignerforum.co.uk/user/38745-lyndsey/) for providing me inspiring ideas. 
+
+DEMO http://codepen.io/Lucky/pen/pvybxa.
 
  
