@@ -1,0 +1,23 @@
+.wrapper {
+max-width:200px;
+}
+.active, .is-active  {
+background:red;
+padding:10px;
+}
+
+ul {
+  margin:0;
+  padding:0;
+  padding-bottom:40px;
+}
+
+li {
+  list-style:none;
+  margin-bottom:20px;
+}
+
+li:last-child {
+margin-bottom:0;
+}
+
