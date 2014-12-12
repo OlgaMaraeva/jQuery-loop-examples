@@ -1,7 +1,7 @@
 jQuery-loop-examples
 
 With great thanks 
-to Robert Smith (http://www.webdesignerforum.co.uk/user/55353-rbrtsmith/) 
+to Robert Smith (http://rbrtsmith.com/) 
 and Lyndsey (http://www.webdesignerforum.co.uk/user/38745-lyndsey/) 
 for providing me inspiring ideas. 
 
